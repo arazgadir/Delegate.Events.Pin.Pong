@@ -1,0 +1,12 @@
+C:\Users\Araz\source\repos\ConsoleApp1\Training\bin\Debug\netcoreapp3.1\Ping.Pong.Delegate.Event.exe
+C:\Users\Araz\source\repos\ConsoleApp1\Training\bin\Debug\netcoreapp3.1\Ping.Pong.Delegate.Event.deps.json
+C:\Users\Araz\source\repos\ConsoleApp1\Training\bin\Debug\netcoreapp3.1\Ping.Pong.Delegate.Event.runtimeconfig.json
+C:\Users\Araz\source\repos\ConsoleApp1\Training\bin\Debug\netcoreapp3.1\Ping.Pong.Delegate.Event.runtimeconfig.dev.json
+C:\Users\Araz\source\repos\ConsoleApp1\Training\bin\Debug\netcoreapp3.1\Ping.Pong.Delegate.Event.dll
+C:\Users\Araz\source\repos\ConsoleApp1\Training\bin\Debug\netcoreapp3.1\Ping.Pong.Delegate.Event.pdb
+C:\Users\Araz\source\repos\ConsoleApp1\Training\obj\Debug\netcoreapp3.1\Ping.Pong.Delegate.Event.AssemblyInfoInputs.cache
+C:\Users\Araz\source\repos\ConsoleApp1\Training\obj\Debug\netcoreapp3.1\Ping.Pong.Delegate.Event.AssemblyInfo.cs
+C:\Users\Araz\source\repos\ConsoleApp1\Training\obj\Debug\netcoreapp3.1\Ping.Pong.Delegate.Event.csproj.CoreCompileInputs.cache
+C:\Users\Araz\source\repos\ConsoleApp1\Training\obj\Debug\netcoreapp3.1\Ping.Pong.Delegate.Event.dll
+C:\Users\Araz\source\repos\ConsoleApp1\Training\obj\Debug\netcoreapp3.1\Ping.Pong.Delegate.Event.pdb
+C:\Users\Araz\source\repos\ConsoleApp1\Training\obj\Debug\netcoreapp3.1\Ping.Pong.Delegate.Event.genruntimeconfig.cache

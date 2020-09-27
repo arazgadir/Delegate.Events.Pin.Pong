@@ -1,0 +1,13 @@
+C:\Users\Araz\source\repos\ConsoleApp1\Training\bin\Debug\netcoreapp3.1\Training.exe
+C:\Users\Araz\source\repos\ConsoleApp1\Training\bin\Debug\netcoreapp3.1\Training.deps.json
+C:\Users\Araz\source\repos\ConsoleApp1\Training\bin\Debug\netcoreapp3.1\Training.runtimeconfig.json
+C:\Users\Araz\source\repos\ConsoleApp1\Training\bin\Debug\netcoreapp3.1\Training.runtimeconfig.dev.json
+C:\Users\Araz\source\repos\ConsoleApp1\Training\bin\Debug\netcoreapp3.1\Training.dll
+C:\Users\Araz\source\repos\ConsoleApp1\Training\bin\Debug\netcoreapp3.1\Training.pdb
+C:\Users\Araz\source\repos\ConsoleApp1\Training\obj\Debug\netcoreapp3.1\Training.AssemblyInfoInputs.cache
+C:\Users\Araz\source\repos\ConsoleApp1\Training\obj\Debug\netcoreapp3.1\Training.AssemblyInfo.cs
+C:\Users\Araz\source\repos\ConsoleApp1\Training\obj\Debug\netcoreapp3.1\Training.csproj.CoreCompileInputs.cache
+C:\Users\Araz\source\repos\ConsoleApp1\Training\obj\Debug\netcoreapp3.1\Training.dll
+C:\Users\Araz\source\repos\ConsoleApp1\Training\obj\Debug\netcoreapp3.1\Training.pdb
+C:\Users\Araz\source\repos\ConsoleApp1\Training\obj\Debug\netcoreapp3.1\Training.genruntimeconfig.cache
+C:\Users\Araz\source\repos\ConsoleApp1\Training\obj\Debug\netcoreapp3.1\Training.csprojAssemblyReference.cache
